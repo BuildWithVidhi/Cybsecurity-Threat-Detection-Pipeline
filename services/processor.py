@@ -1,5 +1,4 @@
 # services/data-processor/processor.py
-# FIXED VERSION - Ensures final summary is always generated
 
 import json
 import logging
